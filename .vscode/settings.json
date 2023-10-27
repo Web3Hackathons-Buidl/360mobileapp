@@ -1,0 +1,14 @@
+{
+  "locofyConfig": {
+    "project_name": "360mobile",
+    "id": "6538713740cbc7f13abe49b7",
+    "framework": "react-nextjs",
+    "typescript": false,
+    "path": "public/",
+    "componentsPath": "/Users/casmirpatterson/mobile-app/src/components",
+    "screensPath": "/Users/casmirpatterson/mobile-app/src/pages",
+    "styling": "Tailwind",
+    "unit": "px",
+    "naming": "Pascal Case"
+  }
+}

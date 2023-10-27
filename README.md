@@ -4,6 +4,6 @@ Note: Please ensure you have installed <code><a href="https://nodejs.org/en/down
 
 To preview and run the project on your device:
 
-1. In terminal run `npm run build`
-2. In the terminal, run `npm install`
+1. In terminal run `npm install`
+2. In the terminal, run `npm run build`
 3. Run `npm start` to view project in browser
